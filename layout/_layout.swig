@@ -82,4 +82,6 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
 </body>
+<!-- 背景动画 -->
+<script type="text/javascript" src="/js/src/particle.js"></script>
 </html>
